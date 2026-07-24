@@ -2,5 +2,9 @@
   {
     "version": "main",
     "url": "https://torsten-rosenbauer.github.io/autoapiframework/main/"
+  },
+  {
+    "version": "feature/build-gh-page",
+    "url": "https://torsten-rosenbauer.github.io/autoapiframework/feature/build-gh-page/"
   }
 ]
