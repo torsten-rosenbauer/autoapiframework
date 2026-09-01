@@ -6,5 +6,9 @@
   {
     "version": "feature/build-gh-page",
     "url": "https://torsten-rosenbauer.github.io/autoapiframework/feature/build-gh-page/"
+  },
+  {
+    "version": "pr-1",
+    "url": "https://torsten-rosenbauer.github.io/autoapiframework/pr-1/"
   }
 ]
